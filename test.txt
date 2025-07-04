@@ -2,3 +2,11 @@
 ssh -T git@github.com
 git config --global user.name “gitname”
 git config --global user.email “git邮箱”
+
+
+
+git rm test.txt
+
+git commit -m "删除 test.txt 文件"
+
+git push origin main
