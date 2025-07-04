@@ -1,0 +1,4 @@
+ ssh-keygen -t rsa -C “git账号”；
+ssh -T git@github.com
+git config --global user.name “gitname”
+git config --global user.email “git邮箱”
