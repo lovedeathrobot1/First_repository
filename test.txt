@@ -12,3 +12,5 @@ git commit -m "删除 test.txt 文件"
 
 git push origin main
 
+git diff
+
